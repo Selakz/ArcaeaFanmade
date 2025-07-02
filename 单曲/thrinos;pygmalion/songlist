@@ -1,0 +1,42 @@
+{
+  "id": "thrinospygmalion",
+  "title_localized": {
+    "en": "thrinos;pygmalion"
+  },
+  "artist_localized": {
+    "en": "baeddelite"
+  },
+  "bpm": "140.00",
+  "bpm_base": 140.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 0,
+  "audioPreviewEnd": 10000,
+  "side": 1,
+  "bg": "arcanaeden",
+  "date": 1748658702,
+  "source_localized": {
+    "en": "vivid/stasis"
+  },
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "senoz;syndrome",
+      "jacketDesigner": "",
+      "rating": 10,
+      "ratingPlus": true
+    }
+  ]
+}

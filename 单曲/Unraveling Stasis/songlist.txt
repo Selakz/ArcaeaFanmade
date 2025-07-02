@@ -1,0 +1,46 @@
+﻿{
+	"id": "unravelingstasis",
+	"title_localized": {
+		"en": "Unraveling Stasis"
+	},
+	"artist": "l'avenir proche",
+	"bpm": "223",
+	"bpm_base": 223,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 124453,
+	"audioPreviewEnd": 149744,
+	"side": 1,
+	"bg": "aphophenia",
+	"source_localized": {
+		"en": "vivid/stasis"
+	},
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 3,
+			"chartDesigner": "valor/senolytics",
+			"jacketDesigner": "",
+			"rating": 11,
+			"ratingPlus": true
+		}
+	]
+}
