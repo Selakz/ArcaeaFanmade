@@ -1,0 +1,16 @@
+{
+  "packs": [
+    {
+      "id": "metarecursion",
+      "cost": 0,
+      "plus_character": -1,
+      "custom_banner": true,
+      "name_localized": {
+        "en": "Meta Recursion"
+      },
+      "description_localized": {
+        "en": "一个世界包含着另一个世界，\n那个世界又反过来包含着这个世界。\n已然在递归的世界中穿梭而筋疲力尽的他，\n在目睹真相后溃然倒地。\n\n那是一个棋子的命定之路。\n而我知道，你在注视这一切，你能改变这一切。\n不是吗？"
+      }
+    }
+  ]
+}

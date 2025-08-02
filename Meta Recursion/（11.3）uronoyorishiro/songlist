@@ -1,0 +1,38 @@
+﻿{
+	"id": "uronoyorishiro",
+	"title_localized": {
+		"en": "Uro no Yorishiro",
+		"ja":"虚の依代",
+		"zh-Hans":"虚の依代"
+	},
+	"artist": "Link''0",
+	"bpm": "192",
+	"bpm_base": 192,
+	"set": "metarecursion",
+	"purchase": "",
+	"audioPreview": 118689,
+	"audioPreviewEnd": 161346,
+	"side": 0,
+	"bg": "arcahv",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "-Denouement-\nLytic Self",
+			"jacketDesigner": "",
+			"rating": 11,
+		}
+	]
+}

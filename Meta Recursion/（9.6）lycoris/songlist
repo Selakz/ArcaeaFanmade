@@ -1,0 +1,36 @@
+﻿{
+	"id": "lycoris",
+	"title_localized": {
+		"en": "Lycoris"
+	},
+	"artist": "Ujico*/Snail's House",
+	"bpm": "186",
+	"bpm_base": 186,
+	"set": "metarecursion",
+	"purchase": "",
+	"audioPreview": 52132,
+	"audioPreviewEnd": 75923,
+	"side": 0,
+	"bg": "quon",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolycoris",
+			"jacketDesigner": "",
+			"rating": 9
+		}
+	]
+}

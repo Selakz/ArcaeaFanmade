@@ -1,0 +1,39 @@
+﻿{
+	"id": "delusion",
+	"title_localized": {
+		"en": "Delusion(Yume-Maboroshi)"
+		"ja":"夢、幻。",
+		"zh-Hans":"夢、幻。"
+	},
+	"artist": "NIKITA",
+	"bpm": "190",
+	"bpm_base": 190,
+	"set": "metarecursion",
+	"purchase": "",
+	"audioPreview": 84315,
+	"audioPreviewEnd": 115419,
+	"side": 1,
+	"bg": "nijuusei-conflict-b",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 9,
+			"ratingPlus": true
+		}
+	]
+}

@@ -1,0 +1,37 @@
+﻿{
+	"id": "lefruitdefendu",
+	"title_localized": {
+		"en": "Le Fruit Défendu",
+	},
+	"artist": "モリモリあつし+Verdammt",
+	"bpm": "220",
+	"bpm_base": 220,
+	"set": "metarecursion",
+	"purchase": "",
+	"audioPreview": 46765,
+	"audioPreviewEnd": 86856,
+	"side": 0,
+	"bg": "finale_light",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 10,
+			"ratingPlus": true
+		}
+	]
+}

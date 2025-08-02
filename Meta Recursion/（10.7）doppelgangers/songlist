@@ -1,0 +1,37 @@
+﻿{
+	"id": "doppelgangers",
+	"title_localized": {
+		"en": "Doppelgängers",
+	},
+	"artist": "アリスシャッハと魔法の楽団",
+	"bpm": "104-178",
+	"bpm_base": 178,
+	"set": "metarecursion",
+	"purchase": "",
+	"audioPreview": 13413,
+	"audioPreviewEnd": 68797,
+	"side": 1,
+	"bg": "single2_conflict",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 10,
+			"ratingPlus": true
+		}
+	]
+}
