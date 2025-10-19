@@ -1,0 +1,42 @@
+{
+  "id": "readytoflightstgz",
+  "title_localized": {
+    "en": "Ready to Flight(stgz ver.)"
+  },
+  "artist_localized": {
+    "en": "yomoha"
+  },
+  "bpm": "175.00",
+  "bpm_base": 175.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 66948,
+  "audioPreviewEnd": 88891,
+  "side": 0,
+  "bg": "nijuusei2_light",
+  "date": 1758369442,
+  "source_localized": {
+    "en": "Sixtar Gate: STARGAZER"
+  },
+  "source_copyright": "©Starlike",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "Dorimi",
+      "jacketDesigner": "",
+      "rating": 10
+    }
+  ]
+}

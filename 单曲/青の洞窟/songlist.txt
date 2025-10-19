@@ -1,0 +1,36 @@
+﻿{
+	"id": "aonodoukutsu",
+	"title_localized": {
+		"en": "青の洞窟"
+	},
+	"artist": "Ujico*",
+	"bpm": "175",
+	"bpm_base": 175,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 82894,
+	"audioPreviewEnd": 106208,
+	"side": 0,
+	"bg": "mirai_light",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Chalcomenite",
+			"jacketDesigner": "",
+			"rating": 9
+		}
+	]
+}
