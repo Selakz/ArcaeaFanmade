@@ -1,0 +1,36 @@
+﻿{
+	"id": "teardropdelrey",
+	"title_localized": {
+		"en": "Teardrop del Rey"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "107",
+	"bpm_base": 107,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 27565,
+	"audioPreviewEnd": 56023,
+	"side": 0,
+	"bg": "lanota-light",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 8
+		}
+	]
+}

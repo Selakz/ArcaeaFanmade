@@ -1,0 +1,37 @@
+﻿{
+	"id": "fehlt",
+	"title_localized": {
+		"en": "FEHLT(DEEMO edition)"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "180",
+	"bpm_base": 180,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 81178,
+	"audioPreviewEnd": 109178,
+	"side": 1,
+	"bg": "vs_conflict",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 10,
+			"ratingPlus": true
+		}
+	]
+}

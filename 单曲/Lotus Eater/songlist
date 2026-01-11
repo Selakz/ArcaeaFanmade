@@ -1,0 +1,40 @@
+﻿{
+	"id": "lotuseater",
+	"title_localized": {
+		"en": "Lotus Eater",
+		"ja": "ロータスイーター",
+		"zh-Hans": "ロータスイーター",
+		"zh-Hant":"ロータスイーター",
+	},
+	"artist": "青栗鼠",
+	"bpm": "142",
+	"bpm_base": 142,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 55259,
+	"audioPreviewEnd": 80703,
+	"side": 0,
+	"bg": "aegleseeker_grey",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 9,
+			"ratingPlus": true
+		}
+	]
+}

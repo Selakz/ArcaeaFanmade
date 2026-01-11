@@ -1,0 +1,36 @@
+﻿{
+	"id": "ilartifact",
+	"title_localized": {
+		"en": "iL-Artifact"
+	},
+	"artist": "Link\"0",
+	"bpm": "184",
+	"bpm_base": 184,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 75442,
+	"audioPreviewEnd": 105768,
+	"side": 0,
+	"bg": "nijuusei-light-b",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 10
+		}
+	]
+}

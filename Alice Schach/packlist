@@ -1,0 +1,19 @@
+{
+"packs":[
+	{
+      "id": "aliceschach",
+      "cost": 0,
+      "custom_banner": true,
+      "plus_character": -1,
+      "img": "select_aliceschach.png",
+      "name_localized": {
+        "en": "Alice Schach Selection",
+        "ja": "Alice Schach Selection"
+      },
+      "description_localized": {
+        "en": "",
+        "ja": ""
+      }
+    }
+]
+}

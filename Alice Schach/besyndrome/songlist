@@ -1,0 +1,36 @@
+﻿{
+	"id": "besyndrome",
+	"title_localized": {
+		"en": "Bad End Syndrome"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "126",
+	"bpm_base": 126,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 60546,
+	"audioPreviewEnd": 91428,
+	"side": 1,
+	"bg": "prelude_conflict",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 9
+		}
+	]
+}

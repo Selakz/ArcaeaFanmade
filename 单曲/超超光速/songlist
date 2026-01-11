@@ -1,0 +1,45 @@
+﻿{
+  "id": "chouchoukousoku",
+  "title_localized": {
+    "en": "Chou☆Chou☆Kou☆Soku☆De☆Mae☆Sai☆Soku!!! Speed★Star★Kanade",
+    "ja": "超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで",
+    "zh-Hans": "超☆超☆光☆速☆出☆前☆最☆速!!! スピード★スター★かなで"
+  },
+  "artist": "Camellia feat. Nanahira",
+  "bpm": "30-999",
+  "bpm_base": 500,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 58816,
+  "audioPreviewEnd": 88576,
+  "side": 0,
+  "bg": "hime_light",
+  "date": 1588572130,
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "そふらんぱわーで光速突破\nしてB P M 9 9 9 のスピードスター\nになって向かわないと！！",
+      "jacketDesigner": "",
+      "rating": 11,
+      "ratingPlus": true
+    },
+    {
+      "ratingClass": 3,
+      "chartDesigner": "そふらんぱわーで光速突破\nしてB P M 9 9 9 のスピードスター\nになって向かわないと！！",
+      "jacketDesigner": "",
+      "rating": 11
+    }
+  ]
+}

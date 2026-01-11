@@ -1,0 +1,37 @@
+﻿{
+	"id": "thefatalfantasia",
+	"title_localized": {
+		"en": "The Fatal Fantasia"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "125-130",
+	"bpm_base": 125,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 68379,
+	"audioPreviewEnd": 85224,
+	"side": 0,
+	"bg": "lanota-light",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 9,
+			"ratingPlus": true
+		}
+	]
+}

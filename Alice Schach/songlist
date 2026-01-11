@@ -1,0 +1,187 @@
+{
+ "songs":[
+
+{
+	"id": "teardropdelrey",
+	"title_localized": {
+		"en": "Teardrop del Rey"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "107",
+	"bpm_base": 107,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 27565,
+	"audioPreviewEnd": 56023,
+	"side": 0,
+	"bg": "lanota-light",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 8
+		}
+	]
+},
+{
+	"id": "besyndrome",
+	"title_localized": {
+		"en": "Bad End Syndrome"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "126",
+	"bpm_base": 126,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 60546,
+	"audioPreviewEnd": 91428,
+	"side": 1,
+	"bg": "prelude_conflict",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 9
+		}
+	]
+},
+{
+	"id": "thefatalfantasia",
+	"title_localized": {
+		"en": "The Fatal Fantasia"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "125-130",
+	"bpm_base": 125,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 68379,
+	"audioPreviewEnd": 85224,
+	"side": 0,
+	"bg": "lanota-light",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 9,
+			"ratingPlus": true
+		}
+	]
+},
+{
+	"id": "killmyfortune",
+	"title_localized": {
+		"en": "Kill My Fortune"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "180",
+	"bpm_base": 180,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 114996,
+	"audioPreviewEnd": 125580,
+	"side": 1,
+	"bg": "single_conflict",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 10
+		}
+	]
+},
+{
+	"id": "fehlt",
+	"title_localized": {
+		"en": "FEHLT(DEEMO edition)"
+	},
+	"artist": "Alice Schach and the Magic Orchestra",
+	"bpm": "180",
+	"bpm_base": 180,
+	"set": "aliceschach",
+	"purchase": "",
+	"audioPreview": 81178,
+	"audioPreviewEnd": 109178,
+	"side": 1,
+	"bg": "vs_conflict",
+	"date": 1588572130,
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "Senolytics",
+			"jacketDesigner": "",
+			"rating": 10,
+			"ratingPlus": true
+		}
+	]
+}
+ ]
+}
